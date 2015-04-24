@@ -1,0 +1,18 @@
+2015-04-24 15:20:19,734 DEBUG c.xormedia.message.RestSendMessage - [RestSendMessage] create And Bind is finished!
+2015-04-24 15:20:22,789 DEBUG com.xormedia.message.CreateThread - [CreateThread4] CreateThread is finished!cost time is 3065 ms this thread create queues number is 995
+2015-04-24 15:20:22,790 DEBUG com.xormedia.message.CreateThread - [CreateThread3] CreateThread is finished!cost time is 3067 ms this thread create queues number is 995
+2015-04-24 15:20:22,793 DEBUG com.xormedia.message.CreateThread - [CreateThread1] CreateThread is finished!cost time is 3071 ms this thread create queues number is 998
+2015-04-24 15:20:22,793 DEBUG com.xormedia.message.CreateThread - [CreateThread5] CreateThread is finished!cost time is 3070 ms this thread create queues number is 998
+2015-04-24 15:20:22,796 DEBUG com.xormedia.message.CreateThread - [CreateThread2] CreateThread is finished!cost time is 3074 ms this thread create queues number is 998
+2015-04-24 15:20:50,392 DEBUG c.xormedia.message.RestSendMessage - [RestSendMessage] starting listening finished!
+2015-04-24 15:20:50,461 DEBUG com.xormedia.message.RecieveThread - Listening queues count is 1000
+2015-04-24 15:21:18,938 DEBUG com.xormedia.message.TestMain - Starting threads to send message.
+2015-04-24 15:21:18,944 DEBUG com.xormedia.message.TestMain -  messageContent = hello
+2015-04-24 15:21:19,087 DEBUG c.xormedia.message.RestSendMessage - [RestSendMessage] messagettl = 60000
+2015-04-24 15:21:19,088 DEBUG c.xormedia.message.RestSendMessage - [RestSendMessage] Message is sent to binding queues!
+2015-04-24 15:21:19,789 DEBUG c.x.message.MultipleSendThread - [SendThread2] SendThread is finished!cost time is 700ms  send message count is 197 send message speed is 281/s
+2015-04-24 15:21:19,789 DEBUG c.x.message.MultipleSendThread - [SendThread1] SendThread is finished!cost time is 699ms  send message count is 194 send message speed is 278/s
+2015-04-24 15:21:19,789 DEBUG c.x.message.MultipleSendThread - [SendThread4] SendThread is finished!cost time is 699ms  send message count is 191 send message speed is 273/s
+2015-04-24 15:21:19,789 DEBUG c.x.message.MultipleSendThread - [SendThread3] SendThread is finished!cost time is 700ms  send message count is 211 send message speed is 301/s
+2015-04-24 15:21:19,792 DEBUG c.x.message.MultipleSendThread - [SendThread5] SendThread is finished!cost time is 702ms  send message count is 207 send message speed is 295/s
+2015-04-24 15:21:19,792 DEBUG com.xormedia.message.TestMain - sending message action is finished! All threads sending speed is 1428/s
